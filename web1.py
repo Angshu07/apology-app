@@ -52,7 +52,7 @@ st.markdown('<div class="sub-text">I know I’ve hurt you, and I’m truly sorry
 st.markdown('<div class="sub-text">But my love for you has never faded, not even for a second.</div>', unsafe_allow_html=True)
 
 # Optional image (uncomment and use your own image path if needed)
-image = Image.open("tusai.png")
+image = Image.open("tusai.jpg")
  st.image(image, caption="For You ❤️", use_column_width=True)
 
 # ---- FINAL MESSAGE BUTTON ----
